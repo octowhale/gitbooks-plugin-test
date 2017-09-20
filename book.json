@@ -9,6 +9,9 @@
     "disqus": {
       "shortName": "tangx"
     },
+    "sitemap": {
+      "hostname": "https://test.octowhale.com/"
+    },
     "github-buttons": {
       "repo": "octowhale/gitbooks-plugin-test",
       "types": [
