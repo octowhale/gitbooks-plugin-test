@@ -1,0 +1,21 @@
+{
+  "plugins": [
+    "disqus",
+    "sharing",
+    "sitemap",
+    "github-buttons",
+    "gist"
+  ],
+  "pluginsConfig": {
+    "disqus": {
+      "shortName": "tangx"
+    }
+    "github-buttons": {
+      "repo": "octowhale/gitbooks-plugin-test",
+      "types": [
+        "star"
+      ],
+      "size": "small"
+    }
+  }
+}
