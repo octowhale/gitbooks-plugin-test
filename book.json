@@ -3,7 +3,7 @@
     "-disqus",
     "-sharing",
     "sitemap",
-    "github-buttons".
+    "github-buttons",
     "gist"
   ],
   "pluginsConfig": {
